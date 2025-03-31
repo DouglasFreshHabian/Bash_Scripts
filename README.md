@@ -1,10 +1,6 @@
 # Bash_Scripts
-A Small Collection of Very Basic Bash Scripts That I Use Regularly
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+a+Linux+Sysadmin💻;Internet+of+Things+Hacker📱;and+novice+security+researcher🕵️;;" alt="Typing SVG" /></a>
 
-As I become more proficient at bash scripting, I will be updating all
-of the scripts in this repository but feel free to use them, modify 
-them and make any improvements to them. 
 
-Free As In Freedom
-Live, Love, Linux
-Douglas Fresh Habian
+## A Small Collection of Very Basic Bash Scripts That I Use Regularly
+
