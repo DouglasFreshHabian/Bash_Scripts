@@ -9,8 +9,7 @@
 </h1>
 
 ## Summary of each Bash Script:
->**💡Remember:**
-> Make each script executable with `chmod +x`
+
 ### 🐛 [AmdBugReport.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/AmdBugReport.sh)
 #### Script Summary:
 This Bash script automates the process of gathering detailed system information for an AMD GPU setup. It collects basic configuration details, creates logs on system status, and performs in-depth analysis using commands like `lshw`, `lspci`, `dmidecode`, and more. It saves all collected data in a designated directory for future reference and troubleshooting.
@@ -34,7 +33,8 @@ This Bash script automates the setup of a Raspberry Pi development environment f
 ### ⚙️ [sysbenchtest.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/sysbenchtest.sh)
 #### Script Summary:
 This Bash script runs a series of performance benchmarks using sysbench to test the CPU, file I/O, and memory performance of the system. It performs CPU stress tests with different thread configurations, evaluates file I/O with sequential write operations on a large file, and checks memory performance with a set memory block size. The script also cleans up the file I/O test data after completion.
-
+>**💡Remember:**
+> Make each script executable with `chmod +x`
 
 
 
