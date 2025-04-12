@@ -34,7 +34,7 @@ This Bash script automates the setup of a Raspberry Pi development environment f
 #### Script Summary:
 This Bash script runs a series of performance benchmarks using sysbench to test the CPU, file I/O, and memory performance of the system. It performs CPU stress tests with different thread configurations, evaluates file I/O with sequential write operations on a large file, and checks memory performance with a set memory block size. The script also cleans up the file I/O test data after completion.
 
-### 🚶‍ [firmwalker.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/firmwalker.sh)
+### 🚶‍[firmwalker.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/firmwalker.sh)
 #### Script Summary:
 A simple bash  script for searching the extracted or mounted firmware file system.
 
