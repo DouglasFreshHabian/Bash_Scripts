@@ -34,7 +34,7 @@ This Bash script automates the setup of a Raspberry Pi development environment f
 #### Script Summary:
 This Bash script runs a series of performance benchmarks using sysbench to test the CPU, file I/O, and memory performance of the system. It performs CPU stress tests with different thread configurations, evaluates file I/O with sequential write operations on a large file, and checks memory performance with a set memory block size. The script also cleans up the file I/O test data after completion.
 
-### [firmwalker.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/firmwalker.sh)
+### 🚶‍ [firmwalker.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/firmwalker.sh)
 #### Script Summary:
 A simple bash  script for searching the extracted or mounted firmware file system.
 
@@ -52,6 +52,25 @@ It will search through the extracted or mounted firmware file system for things 
 * search for URLs, email addresses and IP addresses
 * Experimental support for making calls to the Shodan API using the Shodan CLI
 
+### 📛 [hostname.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/hostname.sh)
+#### Script Summary:
+A Bash script that offers many different ways to change the hostname of a linux machine including:
+
+* randomnly using a built in random name generator
+* manually by providing a hostname
+* using included wordlists
+
+### 🏴 [banner.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/banner.sh)
+#### Script Summary:
+Randomly produce a different colored banner each time you run it. Replace the banner and enjoy. Great for use inside of other scripts.
+
+### 🌐 [encrypt.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/encrypt.sh)
+#### Script Summary:
+A simple bash script that can both encrypt and decrypt a file using gpg.
+
+### 🔐 [PasswordGenerator.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/PasswordGenerator.sh)
+#### Script Summary:
+A simple bash script that generates multipe random passwords on the command line of a specified length.
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
