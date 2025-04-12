@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Simple Bash script that automates the process of analyzing a firmware image
+# A simple bash  script for searching the extracted or mounted firmware file system.
 # You can learn more about it at the parent repo: 
 # https://github.com/craigz28/firmwalker/blob/master/
 
