@@ -71,8 +71,14 @@ A simple bash script that can both encrypt and decrypt a file using gpg.
 ### 🤵 [freshcrypt.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/freshscrypt.sh)
 #### Script Summary:
 A simple bash script based off of `encrypt.sh` that encrypts or decrypts a file on the command line using gpg with added details including ascii art.
+
+### 🔥 [freshpassword.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/freshpassword.sh)
+#### Script Summary:
+A simple bash script based off of `passwordGenerator.sh` that allows you to set not only the number of characters in each password but also the number of passwords
+generated. As with all `fresh` scripts, it includes custom ascii art...
 >**💡Remember:**
 > Make each script executable with `chmod +x`
+
 
 
 
