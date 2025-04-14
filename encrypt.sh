@@ -22,3 +22,4 @@ else
 	gpg -d $file2
 	echo "The file has been decrypted"
 fi
+done
