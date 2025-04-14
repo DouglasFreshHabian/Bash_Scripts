@@ -18,7 +18,7 @@ This Bash script automates the process of gathering detailed system information 
 #### Script Summary:
 This Bash script processes a log file to extract unique IP addresses, then performs geoiplookup and whois lookups for each address. It prints the results to the terminal and saves them to a file, while filtering and formatting the output for readability. It also checks for internet connectivity and handles errors, such as IP addresses with no information available. The script generates a detailed report, including any IP addresses that returned no data, and saves the results with a timestamped filename.
 
-### 🔑 [PasswordGenerator.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/PasswordGenerator.sh)
+### 🔑 [passwordGenerator.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/PasswordGenerator.sh)
 #### Script Summary:
 This Bash script generates multiple random passwords using OpenSSL. The user is prompted to specify the desired password length, and the script then generates and displays 10 passwords, each with the specified length, using base64-encoded random data.
 
@@ -68,9 +68,9 @@ Randomly produce a different colored banner each time you run it. Replace the ba
 #### Script Summary:
 A simple bash script that can both encrypt and decrypt a file using gpg.
 
-### 🔐 [PasswordGenerator.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/PasswordGenerator.sh)
+### 🤵 [freshcrypt.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/PasswordGenerator.sh)
 #### Script Summary:
-A simple bash script that generates multipe random passwords on the command line of a specified length.
+A simple bash script that encrypts or decrypts a file on the command line using gpg.
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
