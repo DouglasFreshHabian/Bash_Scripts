@@ -76,6 +76,10 @@ A simple bash script based off of `encrypt.sh` that encrypts or decrypts a file 
 #### Script Summary:
 A simple bash script based off of `passwordGenerator.sh` that allows you to set not only the number of characters in each password but also the number of passwords
 generated. As with all `fresh` scripts, it includes custom ascii art...
+
+### 🚀 [freshsh33t.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/freshsh33t.sh)
+#### Script Summary:
+This is a Bash script designed to manage personal cheat sheets in the cheat command-line utility. It allows users to copy, remove, verify the path, or view an ASCII banner for their cheat sheets. The script includes fun features like color-coded output and lolcat-generated messages.
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
