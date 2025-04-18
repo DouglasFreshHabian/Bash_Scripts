@@ -79,9 +79,17 @@ generated. As with all `fresh` scripts, it includes custom ascii art...
 ### 🚀 [freshsh33t.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/freshsh33t.sh)
 #### Script Summary:
 This is a Bash script designed to manage personal cheat sheets in the cheat command-line utility. It allows users to copy, remove, verify the path, or view an ASCII banner for their cheat sheets. The script includes fun features like color-coded output and lolcat-generated messages.
->**💡Remember:**
-> Make each script executable with `chmod +x`
 
+### 💣 [freshmac.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/freshmac.sh)
+#### Script Summary:
+A Simple Bash Script that lists interfaces, brings down the interface of choosing, changes its mac address, removes any blocks and brings the interface back up.
+
+### ⚕ [networkHealthCheck.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/networkHealthCheck.sh)
+#### Script Summary:
+The script performs a network health check by testing connectivity, DNS resolution, and bandwidth usage, while displaying the results with colored output and a random ASCII banner.
+
+>**💡Remember:**
+> Make each script executable with `chmod +x` 
 
 
 
