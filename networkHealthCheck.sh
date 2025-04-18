@@ -69,8 +69,8 @@ print_banner
 # Date: $(date)
 
 # Define the target host and DNS server
-TARGET_HOST="1.1.1.1"  # Google Public DNS as an example
-DNS_SERVER="194.242.2.2"
+TARGET_HOST="8.8.8.8"  # Google Public DNS as an example
+DNS_SERVER="8.8.8.8"
 PING_COUNT=4
 
 # Function to check connectivity
@@ -88,9 +88,9 @@ check_connectivity() {
 
 # Function to check DNS resolution
 check_dns() {
-    echo -e "${YELLOW}Checking DNS resolution for mullvad.net...${RESET}"
+    echo -e "${YELLOW}Checking DNS resolution for Google...${RESET}"
 
-    nslookup mullvad.net $DNS_SERVER > /dev/null 2>&1
+    nslookup example.com $DNS_SERVER > /dev/null 2>&1
 
     if [ $? -eq 0 ]; then
         echo -e "${GREEN}DNS Resolution: SUCCESS${RESET}"
