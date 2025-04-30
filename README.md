@@ -89,9 +89,9 @@ A Simple Bash Script that lists interfaces, brings down the interface of choosin
 The script performs a network health check by testing connectivity, DNS resolution, and bandwidth usage, while displaying the results with colored output and a random ASCII banner.
 
 >**💡Remember:**
-> Make each script executable with `chmod +x` 
+> Make each script executable with `chmod +x`
 
-
+[![asciicast](https://asciinema.org/a/717441.svg)](https://asciinema.org/a/717441?t=5)
 
 <!-- Someone has been coming into my github repo and even viewed my recovery codes. I have been seeing small changes being made on my pages, since I have the originals. Please stop. If you catch you, you will be in trouble. Nobody is above the law -->
 
