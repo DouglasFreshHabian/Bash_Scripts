@@ -88,11 +88,15 @@ A Simple Bash Script that lists interfaces, brings down the interface of choosin
 #### Script Summary:
 The script performs a network health check by testing connectivity, DNS resolution, and bandwidth usage, while displaying the results with colored output and a random ASCII banner.
 
+### 🌀 [cloneRepo](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/cloneRepo.sh)
+#### Script Summary:
+This script allows you to interactively browse and selectively clone public repositories from any GitHub user by leveraging the GitHub REST API and jq.
+
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
 ## Interested In More Bash? Check out my Bash Equalizer called [BashBeats](https://github.com/DouglasFreshHabian/BashBeats.git)
-[![asciicast](https://asciinema.org/a/717441.svg)](https://asciinema.org/a/717441?t=0:05)
+[![asciicast](https://asciinema.org/a/717434.svg)](https://asciinema.org/a/717434)
 
 <!-- Someone has been coming into my github repo and even viewed my recovery codes. I have been seeing small changes being made on my pages, since I have the originals. Please stop. If you catch you, you will be in trouble. Nobody is above the law -->
 
