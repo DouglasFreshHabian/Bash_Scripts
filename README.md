@@ -92,6 +92,10 @@ The script performs a network health check by testing connectivity, DNS resoluti
 #### Script Summary:
 This script allows you to interactively browse and selectively clone public repositories from any GitHub user by leveraging the GitHub REST API and jq.
 
+## 📡 [udevMagic](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/udevMagic.sh)
+#### Script Summary:
+A script to easily rename external network adapters by creating and managing Udev rules based on MAC addresses.
+
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
