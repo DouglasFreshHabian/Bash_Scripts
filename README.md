@@ -4,6 +4,7 @@
 ![Shell Script](https://img.shields.io/badge/Bash-Bash_Scripts-yellow.svg)
 ![Using Linux](https://img.shields.io/badge/Using-Linux-purple.svg)
 ![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
+![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-153f86?logo=kalilinux&logoColor=blue&colorA=white)
 
 ![Header](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/Graphics/Mr-Fresh-2-github-header-image.png?raw=true)
 <h1 align="center"> 
