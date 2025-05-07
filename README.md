@@ -1,3 +1,10 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Size](https://img.shields.io/github/repo-size/DouglasFreshHabian/Bash_Scripts)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
+![Shell Script](https://img.shields.io/badge/Bash-Bash_Scripts-yellow.svg)
+![Using Linux](https://img.shields.io/badge/Using-Linux-purple.svg)
+![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
+
 ![Header](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/Graphics/Mr-Fresh-2-github-header-image.png?raw=true)
 <h1 align="center"> 
   </h1>
