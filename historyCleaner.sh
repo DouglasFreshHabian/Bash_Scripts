@@ -2,7 +2,8 @@
 
 
 # =========================================================
-# History Eraser and Faker Script
+# Unified History Cleaner and Faker Script
+# Supports Bash, Zsh, Fish, Ksh, and Tcsh automatically
 # Now includes optional random cronjob setup
 # =========================================================
 
