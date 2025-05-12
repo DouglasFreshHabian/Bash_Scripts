@@ -104,6 +104,11 @@ This script allows you to interactively browse and selectively clone public repo
 #### Script Summary:
 A script to easily rename external network adapters by creating and managing Udev rules based on MAC addresses.
 
+## 🧹 [historyCleaner.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/historyErase.sh)
+#### Script Summary:
+A unified, powerful script to securely erase your shell history and replace it with realistic fake entries.
+Supports Bash, Zsh, Fish, Ksh, and Tcsh automatically. Includes randomized cronjob support for ongoing protection!
+
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
