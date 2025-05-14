@@ -109,6 +109,11 @@ A script to easily rename external network adapters by creating and managing Ude
 A unified, powerful script to securely erase your shell history and replace it with realistic fake entries.
 Supports Bash, Zsh, Fish, Ksh, and Tcsh automatically. Includes randomized cronjob support for ongoing protection!
 
+## 🛠 [installTools.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/installTools.sh)
+#### Script Summary:
+A simple Bash script with colorization that attempts to install every single tool inside of the `TOOLS` array. Add tools to the array
+or remove tools from the array.
+
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
