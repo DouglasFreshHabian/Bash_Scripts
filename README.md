@@ -114,6 +114,10 @@ Supports Bash, Zsh, Fish, Ksh, and Tcsh automatically. Includes randomized cronj
 A simple Bash script with colorization that attempts to install every single tool inside of the `TOOLS` array. Add tools to the array
 or remove tools from the array.
 
+## 🔌 [io-ng.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/io-ng.sh)
+#### Script Summary:
+A simple Bash script that monitors USB device connections in real-time, displaying color-coded vendor and product IDs.
+
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
