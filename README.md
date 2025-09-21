@@ -118,6 +118,10 @@ or remove tools from the array.
 #### Script Summary:
 A simple Bash script that monitors USB device connections in real-time, displaying color-coded vendor and product IDs.
 
+## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
+#### Script Summary:
+This Python script generates and prints all Object Identifiers (OIDs) in the hexadecimal range 0x5f0000 to 0x5fffff, formatted as six-digit hex values.
+ 
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
