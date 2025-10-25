@@ -118,6 +118,14 @@ or remove tools from the array.
 #### Script Summary:
 A simple Bash script that monitors USB device connections in real-time, displaying color-coded vendor and product IDs.
 
+## 📞 [androidQuickDump.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/androidQuickDump.sh)
+#### Script Summary:
+A compact forensic helper script that performs a quick, non-invasive snapshot of an Android device via adb. Collects device identifiers, build info, installed packages, battery and basic dumpsys outputs, and a snapshot of logcat. Results are saved into a timestamped folder.
+
+## 📱 [androidDeepDive.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/androidDeepDive.sh)
+#### Script Summary:
+A more thorough forensic capture for Android devices. Designed to extract extended diagnostics and accessible app/system artifacts, perform detailed dumpsys for key services, and organize results for later analysis. Intended for situations where more context and deeper system snapshots are required.
+
 ## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
 #### Script Summary:
 This Python script generates and prints all Object Identifiers (OIDs) in the hexadecimal range 0x5f0000 to 0x5fffff, formatted as six-digit hex values.
