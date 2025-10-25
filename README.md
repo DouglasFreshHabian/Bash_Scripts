@@ -122,7 +122,7 @@ A simple Bash script that monitors USB device connections in real-time, displayi
 #### Script Summary:
 A compact forensic helper script that performs a quick, non-invasive snapshot of an Android device via adb. Collects device identifiers, build info, installed packages, battery and basic dumpsys outputs, and a snapshot of logcat. Results are saved into a timestamped folder.
 
-## 📱 [androidDeepDive.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/androidDeepDive.sh)
+## 📱 [dumpsys.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/dumpsys.sh)
 #### Script Summary:
 A more thorough forensic capture for Android devices. Designed to extract extended diagnostics and accessible app/system artifacts, perform detailed dumpsys for key services, and organize results for later analysis. Intended for situations where more context and deeper system snapshots are required.
 
