@@ -118,7 +118,7 @@ or remove tools from the array.
 #### Script Summary:
 A simple Bash script that monitors USB device connections in real-time, displaying color-coded vendor and product IDs.
 
-## 📞 [extract.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/extract.sh)
+## 🔍 [extract.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/extract.sh)
 #### Script Summary:
 A compact forensic helper script that performs a quick, non-invasive snapshot of an Android device via adb. Collects device identifiers, build info, installed packages, battery and basic dumpsys outputs, and a snapshot of logcat. Results are saved into a timestamped folder.
 
