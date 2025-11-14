@@ -130,6 +130,10 @@ A more thorough forensic capture for Android devices. Designed to extract extend
 #### Script Summary:
 Colorful, ADB-powered Wi-Fi radar that scans, sorts, and visualizes nearby networks by signal strength, band, and channel right from your terminal.
 
+## 📲 [secretCodes.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/secretCodes.sh)
+#### Script Summary:
+A bash script that uses ADB to scan installed Android packages and extract any secret dialer codes, logging them with device info to a timestamped file.
+
 ## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
 #### Script Summary:
 This Python script generates and prints all Object Identifiers (OIDs) in the hexadecimal range 0x5f0000 to 0x5fffff, formatted as six-digit hex values.
