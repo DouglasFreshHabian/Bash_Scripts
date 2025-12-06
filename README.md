@@ -134,6 +134,14 @@ Colorful, ADB-powered Wi-Fi radar that scans, sorts, and visualizes nearby netwo
 #### Script Summary:
 A bash script that uses ADB to scan installed Android packages and extract any secret dialer codes, logging them with device info to a timestamped file.
 
+## 📍 [gpsExtract.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/gpsExtract.sh)
+#### Script Summary:
+This script extracts the GPS latitude and longitude from a single image using exiftool and outputs the coordinates along with a ready-to-use Google Maps link.
+
+## 🗺️ [gps.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/gps.sh)
+#### Script Summary:
+Simple Bash script scans a folder of images, extracts their GPS coordinates with exiftool, and saves filenames, latitude/longitude, and Google Maps links into a CSV file.
+
 ## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
 #### Script Summary:
 This Python script generates and prints all Object Identifiers (OIDs) in the hexadecimal range 0x5f0000 to 0x5fffff, formatted as six-digit hex values.
