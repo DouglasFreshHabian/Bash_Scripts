@@ -153,10 +153,8 @@ This Python script generates and prints all Object Identifiers (OIDs) in the hex
 >**💡Remember:**
 > Make each script executable with `chmod +x`
 
-## Interested In More Bash? Check out my Bash Equalizer called [BashBeats](https://github.com/DouglasFreshHabian/BashBeats.git)
-[![asciicast](https://asciinema.org/a/717434.svg)](https://asciinema.org/a/717434)
-
-<!-- Someone has been coming into my github repo and even viewed my recovery codes. I have been seeing small changes being made on my pages, since I have the originals. Please stop. If you catch you, you will be in trouble. Nobody is above the law -->
+## Interested In More Bash? Check out my custom Bash Osint Script called [OsintDroid](https://github.com/DouglasFreshHabian/OsintDroid.git)
+[![asciicast](https://asciinema.org/a/763143.svg)](https://asciinema.org/a/763143)
 
 <!-- 
  _____              _       _____                        _          
