@@ -1,0 +1,74 @@
+# ==============================
+# Fresh Forensics Theme
+# ==============================
+
+# Global Properties
+desktop-image: "fresh-background.png"
+desktop-color: "#000000"
+
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# ==============================
+# Boot Menu
+# ==============================
+
++ boot_menu {
+  left = 25%
+  top = 30%
+  width = 50%
+  height = 50%
+
+  item_font = "DejaVu Sans 22"
+
+  item_color = "#d0d0d0"
+  selected_item_color = "#00ffc8"
+
+  icon_width = 0
+  icon_height = 0
+
+  item_icon_space = 10
+  item_height = 48
+  item_padding = 5
+  item_spacing = 6
+
+  selected_item_pixmap_style = "select_*.png"
+}
+
+# ==============================
+# Footer Countdown
+# ==============================
+
++ label {
+  top = 93%
+  left = 30%
+  width = 40%
+  align = "center"
+
+  id = "__timeout__"
+
+  text = "Launching toolkit in %d seconds..."
+  color = "#00ffc8"
+
+  font = "DejaVu Sans 18"
+}
+
+# ==============================
+# Optional Status Label
+# ==============================
+
++ label {
+  top = 96%
+  left = 59%
+  width = 40%
+
+  align = "right"
+
+  text = "Fresh Forensics Multi-Boot Environment"
+  color = "#808080"
+
+  font = "DejaVu Sans 16"
+}
