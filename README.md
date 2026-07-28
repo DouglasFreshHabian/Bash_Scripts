@@ -146,6 +146,10 @@ Simple Bash script scans a folder of images, extracts their GPS coordinates with
 #### Script Summary:
 A playful Bash script that mimics Linux package updates and installations with dynamic, fully cosmetic terminal output.
 
+## 🦊 [firefoxMozillaMigration.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/firefoxMozillaMigration.sh)
+#### Script Summary:
+Firefox Snap → Mozilla APT Migration Utility
+
 ## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
 #### Script Summary:
 This Python script generates and prints all Object Identifiers (OIDs) in the hexadecimal range 0x5f0000 to 0x5fffff, formatted as six-digit hex values.
