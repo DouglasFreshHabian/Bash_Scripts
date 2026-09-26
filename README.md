@@ -45,20 +45,6 @@ This Bash script runs a series of performance benchmarks using sysbench to test 
 #### Script Summary:
 A simple bash  script for searching the extracted or mounted firmware file system.
 
-It will search through the extracted or mounted firmware file system for things of interest such as:
-
-* etc/shadow and etc/passwd
-* list out the etc/ssl directory
-* search for SSL related files such as .pem, .crt, etc.
-* search for configuration files
-* look for script files
-* search for other .bin files
-* look for keywords such as admin, password, remote, etc.
-* search for common web servers used on IoT devices
-* search for common binaries such as ssh, tftp, dropbear, etc.
-* search for URLs, email addresses and IP addresses
-* Experimental support for making calls to the Shodan API using the Shodan CLI
-
 ### 📛 [hostname.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/hostname.sh)
 #### Script Summary:
 A Bash script that offers many different ways to change the hostname of a linux machine including:
@@ -149,6 +135,10 @@ A playful Bash script that mimics Linux package updates and installations with d
 ## 🦊 [firefoxMozillaMigration.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/firefoxMozillaMigration.sh)
 #### Script Summary:
 Firefox Snap → Mozilla APT Migration Utility
+
+### ▶️ [play.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/play.sh)
+#### Script Summary:
+A simple colorized command line toolkit for playing, converting, rotating, and extracting video and audio files.
 
 ## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
 #### Script Summary:
