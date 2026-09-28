@@ -140,6 +140,10 @@ Firefox Snap → Mozilla APT Migration Utility
 #### Script Summary:
 A simple colorized command line toolkit for playing, converting, rotating, and extracting video and audio files.
 
+### 📋 [githubAudit.sh](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/githubAudit.sh)
+#### Script Summary:
+GitHub repository security auditing toolkit for detecting exposed secrets, sensitive data, risky configurations, and historical Git leaks.
+
 ## 🐍 [customOIDs.py](https://github.com/DouglasFreshHabian/Bash_Scripts/blob/main/customOIDs.py)
 #### Script Summary:
 This Python script generates and prints all Object Identifiers (OIDs) in the hexadecimal range 0x5f0000 to 0x5fffff, formatted as six-digit hex values.
